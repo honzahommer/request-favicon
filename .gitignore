@@ -16,3 +16,6 @@ Desktop.ini
 node_modules
 *.log
 *.gz
+
+# IDEs
+.idea
