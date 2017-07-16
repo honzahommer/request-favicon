@@ -5,6 +5,12 @@
 [![npm version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 
+Modern browsers usually asks for favicon of the website. Having a favicon in a Web page is a good thing (normally). 
+
+However it is not always desired and sometime developers need a way to avoid the extra payload. 
+
+Nice way to handle that is to send 204 status code for `/favicon.ico` requests.
+
 ## Install
 
 ```sh
@@ -17,12 +23,12 @@ npm install serve-favicon
 const express = require('express');
 const favicon = require('request-favicon');
 
-const app = express()
-app.use(favicon())
+const app = express();
+app.use(favicon());
 
 // Add your routes here, etc.
 
-app.listen(3000)
+app.listen(3000);
 ```
 
 ## License
