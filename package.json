@@ -6,9 +6,9 @@
   "scripts": {
     "test": "mocha --timeout 10000"
   },
-  "repository": "honzahommer/req-favicon",
+  "repository": "honzahommer/request-favicon",
   "author": "Honza Hommer <honza@hommer.cz>",
-  "homepage": "https://github.com/honzahommer/req-favicon#README",
+  "homepage": "https://github.com/honzahommer/request-favicon#README",
   "keywords": [
     "express",
     "favicon",
@@ -16,7 +16,7 @@
     "mw"
   ],
   "engines": {
-    "node": ">= 4.0"
+    "node": ">= 0.10"
   },
   "files": [
     "LICENSE",
