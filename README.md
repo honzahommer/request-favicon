@@ -14,7 +14,7 @@ Nice way to handle that is to send 204 status code for `/favicon.ico` requests.
 ## Install
 
 ```sh
-npm install serve-favicon
+npm install request-favicon
 ```
 
 ## Example
@@ -37,7 +37,7 @@ app.listen(3000);
 
 [release-image]: https://img.shields.io/github/release/honzahommer/request-favicon.svg
 [release-url]: https://github.com/honzahommer/request-favicon/releases/latest
-[npm-image]: https://img.shields.io/npm/v/serve-favicon.svg
-[npm-url]: https://npmjs.org/package/serve-favicon
+[npm-image]: https://img.shields.io/npm/v/request-favicon.svg
+[npm-url]: https://npmjs.org/package/request-favicon
 [travis-image]: https://img.shields.io/travis/honzahommer/request-favicon/master.svg
 [travis-url]: https://travis-ci.org/honzahommer/request-favicon
