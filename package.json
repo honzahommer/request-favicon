@@ -1,6 +1,6 @@
 {
   "name": "request-favicon",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "An express.js middleware for handling noisy favicon.ico",
   "main": "lib/",
   "directories": {
