@@ -1,13 +1,11 @@
 # request-favicon
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/honzahommer/request-favicon.svg)](https://greenkeeper.io/)
-
-> An express.js middleware for handling noisy favicon.ico
-
-[![Release][release-image]][release-url]
 [![npm version][npm-image]][npm-url]
 [![npm download][downloads-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
+[![Greenkeeper badge](https://badges.greenkeeper.io/honzahommer/request-favicon.svg)](https://greenkeeper.io/)
+
+> An express.js middleware for handling noisy favicon.ico
 
 Modern browsers usually asks for favicon of the website. Having a favicon in a Web page is a good thing (normally). 
 
@@ -39,8 +37,6 @@ app.listen(3000);
 
 [MIT](LICENSE)
 
-[release-image]: https://img.shields.io/github/release/honzahommer/request-favicon.svg
-[release-url]: https://github.com/honzahommer/request-favicon/releases/latest
 [npm-image]: https://img.shields.io/npm/v/request-favicon.svg
 [npm-url]: https://npmjs.org/package/request-favicon
 [travis-image]: https://img.shields.io/travis/honzahommer/request-favicon/master.svg
