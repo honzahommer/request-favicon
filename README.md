@@ -1,4 +1,7 @@
 # request-favicon
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/honzahommer/request-favicon.svg)](https://greenkeeper.io/)
+
 > An express.js middleware for handling noisy favicon.ico
 
 [![Release][release-image]][release-url]
