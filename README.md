@@ -3,6 +3,7 @@
 
 [![Release][release-image]][release-url]
 [![npm version][npm-image]][npm-url]
+[![npm download][downloads-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 
 Modern browsers usually asks for favicon of the website. Having a favicon in a Web page is a good thing (normally). 
@@ -41,3 +42,4 @@ app.listen(3000);
 [npm-url]: https://npmjs.org/package/request-favicon
 [travis-image]: https://img.shields.io/travis/honzahommer/request-favicon/master.svg
 [travis-url]: https://travis-ci.org/honzahommer/request-favicon
+[downloads-image]: https://img.shields.io/npm/dm/request-favicon.svg
