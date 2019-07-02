@@ -1,5 +1,16 @@
 # Change Log
 
+## [v2.0.1](https://github.com/honzahommer/request-favicon/tree/v2.0.1) (2019-07-02)
+[Full Changelog](https://github.com/honzahommer/request-favicon/compare/v2.0.0...v2.0.1)
+
+**Merged pull requests:**
+
+- Update husky to the latest version 🚀 [\#5](https://github.com/honzahommer/request-favicon/pull/5) ([greenkeeper[bot]](https://github.com/apps/greenkeeper))
+- Update husky to the latest version 🚀 [\#4](https://github.com/honzahommer/request-favicon/pull/4) ([greenkeeper[bot]](https://github.com/apps/greenkeeper))
+- Update nyc to the latest version 🚀 [\#3](https://github.com/honzahommer/request-favicon/pull/3) ([greenkeeper[bot]](https://github.com/apps/greenkeeper))
+- Update mocha to the latest version 🚀 [\#2](https://github.com/honzahommer/request-favicon/pull/2) ([greenkeeper[bot]](https://github.com/apps/greenkeeper))
+- Add Greenkeeper badge 🌴 [\#1](https://github.com/honzahommer/request-favicon/pull/1) ([greenkeeper[bot]](https://github.com/apps/greenkeeper))
+
 ## [v2.0.0](https://github.com/honzahommer/request-favicon/tree/v2.0.0) (2019-01-29)
 [Full Changelog](https://github.com/honzahommer/request-favicon/compare/v1.0.1...v2.0.0)
 
