@@ -1,5 +1,12 @@
 # Change Log
 
+## [v2.0.2](https://github.com/honzahommer/request-favicon/tree/v2.0.2) (2019-07-18)
+[Full Changelog](https://github.com/honzahommer/request-favicon/compare/v2.0.1...v2.0.2)
+
+**Merged pull requests:**
+
+- Bump lodash from 4.17.11 to 4.17.14 [\#6](https://github.com/honzahommer/request-favicon/pull/6) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v2.0.1](https://github.com/honzahommer/request-favicon/tree/v2.0.1) (2019-07-02)
 [Full Changelog](https://github.com/honzahommer/request-favicon/compare/v2.0.0...v2.0.1)
 
